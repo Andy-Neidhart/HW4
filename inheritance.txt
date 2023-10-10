@@ -1,0 +1,10 @@
+Code Reusability:
+Inheritance allows you to create a new class based on an existing class. subclasses inherit the properties and methods of the existing parent class.
+This promotes code reusability because you can use the existing class's functionality without rewriting it.
+this was you can spend less time rewriting code.
+
+Polymorphism and Interface Implementation:
+Inheritance enables polymorphism, which allows objects of different classes to be treated as objects of a common superclass/parent class.
+This is useful when you want to define common functions or set up that multiple classes follow.
+By using inheritance, you can create a variety of classes that use the same methods but behave differently based on their specific implementations.
+This promotes flexibility in your program's design and allows you to write code that can work with objects of multiple related classes.
