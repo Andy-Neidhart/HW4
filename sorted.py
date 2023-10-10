@@ -1,4 +1,4 @@
-def reverse_sort_dictionary(input_dict):
+def sort_dictionary(input_dict):
     # Sort the dictionary items in reverse order by keys
     sorted_items = sorted(input_dict.items(), key=lambda x: x[0], reverse=True)
     
