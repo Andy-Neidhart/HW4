@@ -1,0 +1,2 @@
+1. no the value of a does not increase because when ints are created in python they are immutable meaning they cant be changed
+2. Yes the value of b does change because it is in a dictionary, where the values can be changed (mutable)
